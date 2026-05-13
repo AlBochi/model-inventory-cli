@@ -1,0 +1,3 @@
+# Saillent — Approved Model Registry
+# Add file paths of approved models, one per line
+# Example: /models/risk/credit-risk-v3.pkl
